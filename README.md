@@ -23,6 +23,8 @@ Dazu suchen wir im JavaScript in localStorage, ob wir einen Eintrag finden.
 
 Falls wir einen Wert finden, teilen wir den alten Wert mit der Berechnung dem Anwender mit.
 
+Wir können ihm auch die Veränderung seit der letzten Berechnung mitteilen.
+
 Falls kein Wert gefunden wird, teilen wir nur die Berechnung des aktuellen BMIs mit.
 
 ## Programmierteil 3
